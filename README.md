@@ -6,3 +6,4 @@ The project is writen in java and include topics like Exception handling , Threa
 2) Then run Client.java ( you can have multiple clients at the same time)
 3) After recieving Controlling clauses from server , press Enter to continue
 
+For more information , check projectReport.
