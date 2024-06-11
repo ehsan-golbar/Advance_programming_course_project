@@ -10,7 +10,7 @@ import java.util.regex.Pattern;
 
 public class Main {
     public static void main(String[] args) {
-        File information = new File("G:\\Ehsan\\Ehsan\\sources\\term_2\\ap\\finalProj\\information");//address of project + \\information
+        File information = new File("");//address of project + \\information
         if (!information.exists()) {
             information.mkdir();
         }
